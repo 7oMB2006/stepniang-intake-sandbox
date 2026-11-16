@@ -1,0 +1,109 @@
+{
+  "production": "7oMB2006/stepniang-materials",
+  "sourceCommit": "a1ab26501cb134e93ff2c5ab324013a7f0130cfd",
+  "sandbox": "7oMB2006/stepniang-intake-sandbox",
+  "syntheticOnly": true,
+  "actualPrActor": {
+    "login": "Daodaodot",
+    "id": 245782590,
+    "type": "User"
+  },
+  "seedMaterialId": "5c9eba2caeaaf1c3d632cfa0444f7226fe67bfe7cf44e17abef4e1ee09d8ff31",
+  "unchangedCritical": [
+    {
+      "file": "scripts/policy.mjs",
+      "sha256": "a082812a4ea088c30ed9a28a987ca1383bf64da339abb18e2cf2c809f4474a7d"
+    },
+    {
+      "file": "scripts/git-reader.mjs",
+      "sha256": "bc64f7db63b38f68bd6f61dfa146d978c75c175e873e021fa524258e0b948860"
+    },
+    {
+      "file": "scripts/check-repository.mjs",
+      "sha256": "4994e9bd8d7421501c380e01b792eff88989493fb558de546292fc44c2ea438e"
+    },
+    {
+      "file": "validation/submission-core.ts",
+      "sha256": "629aefc1d7a3016470b48793c7fd59fc707099132b82e6cad0d53f3965ef51c8"
+    },
+    {
+      "file": "validation/snapshot.json",
+      "sha256": "19bc6ae0b37031b1653570e7706f93b3f2d443c62d40cfa3a2f469281daff7de"
+    },
+    {
+      "file": "shared/profile.mjs",
+      "sha256": "9ac94c349528fe6f287cad31123eed3bf24cca8b6b13120ce6af26153cc42a2d"
+    },
+    {
+      "file": "shared/work-metadata.mjs",
+      "sha256": "00c751adf66e9d2bb78ca3487e67a35f9968bf69baf0c2d3447cdb6133e4af63"
+    },
+    {
+      "file": "shared/meme-metadata.mjs",
+      "sha256": "5ac88dead82b28bc591df0be6f7ee3e3ea9940af486a2b393f20c7bc55740cbb"
+    },
+    {
+      "file": "package.json",
+      "sha256": "3ff41d7862787103999a3f6fe159fdb31368e1bcaf88ac06d7eda3468ae140ae"
+    },
+    {
+      "file": "package-lock.json",
+      "sha256": "2f4138b4bb34a8a8dcf24cd1e959801e940c56b0680d16c76b9c26bac392d0bd"
+    },
+    {
+      "file": ".github/workflows/request-gate.yml",
+      "sha256": "1752a911914132c96286ecbd34dc6798559a743eb2786a3b1928c60015117c48"
+    },
+    {
+      "file": ".github/workflows/checks.yml",
+      "sha256": "1a80ea701054eb5a3c6e399860f75ef30ac9874b85d42fb142bc58b51ba122a2"
+    }
+  ],
+  "differences": [
+    {
+      "file": ".github/pull_request_template.md",
+      "sourceSha256": "3b3101092b7ae58f22785367c5c0e599dc666b23e74f3981dc5ced0d1add27c0",
+      "sandboxSha256": "322e34b87a685b3a631b4639ccb33cd74b4bd1680f3547e58b401c8bb38c1693"
+    },
+    {
+      "file": "CONTRIBUTING.md",
+      "sourceSha256": "009674ea9bdad5a225897ab4ebd1650df59099e95bfbf669035bba12d50a2e8f",
+      "sandboxSha256": "2f109aef936388538f59302f5b57dccbf11ed8909e2f9539aabb84edd1528b5a"
+    },
+    {
+      "file": "README.md",
+      "sourceSha256": "68cc971daa69991d37192186c005b6fa6eb45af3f9b0f9c84e3db311107b0aea",
+      "sandboxSha256": "114dc74852d73e035c1b6f52b132966438197af88c6f0fdeb4c56edff9fa6fce"
+    },
+    {
+      "file": "config/intake.json",
+      "sourceSha256": "f9b2c6abee778eb2279341931f9a5339379e4d278e595708bbd86cbd280d8382",
+      "sandboxSha256": "0420810c0170b7df14900a1fa3353d5367e20073754a1d8754ba544a5274076f"
+    },
+    {
+      "file": "registry/authors.json",
+      "sourceSha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "sandboxSha256": "c0991a8d7ded505acf33cfdf22580cffc41922eee77a8404672c117d6e8d2421"
+    },
+    {
+      "file": "registry/materials.json",
+      "sourceSha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "sandboxSha256": "0a2e04c3e694ceda38318537f370d4475a603ac72f0ca73042a3bd20302f8150"
+    },
+    {
+      "file": "scripts/check-pr.mjs",
+      "sourceSha256": "eb8f65cc6e734384b712980d0469712b96965b6b2c5e1e82b23041a2c18ef936",
+      "sandboxSha256": "e8a2a38a16899669efda4c83e39bb6a7189fc5335aa654f7b96f3a57e6168a1b"
+    },
+    {
+      "file": "tests/policy.test.mjs",
+      "sourceSha256": "2184670a0566a62ac2e37942d0e81ef12bfa72e177d458f67d9a0c1e0371d411",
+      "sandboxSha256": "17ec44ce3dbdca7c67a5e82c7106f7468698feacc109c86d9b2fdc690cd7ba93"
+    },
+    {
+      "file": "fixtures/synthetic-withdrawal-target.png",
+      "sourceSha256": null,
+      "sandboxSha256": "5c9eba2caeaaf1c3d632cfa0444f7226fe67bfe7cf44e17abef4e1ee09d8ff31"
+    }
+  ]
+}
