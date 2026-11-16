@@ -1,0 +1,71 @@
+{
+  "format": "stepniang-submission",
+  "version": 2,
+  "exportedAt": "2026-11-16T08:09:07.104Z",
+  "public": {
+    "author": {
+      "mode": "new",
+      "id": null,
+      "updateProfile": false,
+      "profile": {
+        "name": "合成验收作者",
+        "tagline": "",
+        "bio": "",
+        "email": "",
+        "links": []
+      },
+      "baseline": null,
+      "changes": [],
+      "avatarAction": "keep",
+      "avatar": null
+    },
+    "works": [
+      {
+        "attachment": {
+          "id": "12345678-1234-4123-8123-123456789abc",
+          "path": "files/12345678-1234-4123-8123-123456789abc.png",
+          "name": "synthetic.png",
+          "bytes": 94,
+          "width": 3,
+          "height": 2,
+          "sha256": "eb0586dc9e1214d63cf05c57ce82460a47062f0bfbc5c9e78aab950674bb4642"
+        },
+        "title": "Synthetic fixture",
+        "category": "插画",
+        "tags": [],
+        "license": "CC BY-NC-SA 4.0",
+        "source": "",
+        "credits": [
+          "@self"
+        ],
+        "createdDate": null,
+        "meme": {
+          "attachment": {
+            "id": "22345678-1234-4123-8123-123456789abc",
+            "path": "files/22345678-1234-4123-8123-123456789abc.png",
+            "name": "source.png",
+            "bytes": 96,
+            "width": 2,
+            "height": 3,
+            "sha256": "2dc5e3b99af41d9d68826a8f6b2f18b750f166f1f484dc6aa6963434873c9001"
+          },
+          "title": null,
+          "description": "Synthetic source",
+          "credit": null,
+          "url": null
+        }
+      }
+    ]
+  },
+  "review": {
+    "githubLoginClaim": "Daodaodot",
+    "bindingStatus": "unverified",
+    "works": [
+      {
+        "id": "12345678-1234-4123-8123-123456789abc",
+        "creationMethod": "混合",
+        "note": "Synthetic fixture, not a real submission"
+      }
+    ]
+  }
+}
