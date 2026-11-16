@@ -1,0 +1,52 @@
+{
+  "format": "stepniang-submission",
+  "version": 3,
+  "requestKind": "profile-update",
+  "exportedAt": "2026-11-16T08:09:07.117Z",
+  "public": {
+    "withdrawalIds": [],
+    "author": {
+      "mode": "existing",
+      "id": "known",
+      "updateProfile": true,
+      "profile": {
+        "name": "合成验收作者",
+        "tagline": "",
+        "bio": "仅用于隔离验收的修改后简介",
+        "email": "",
+        "links": []
+      },
+      "baseline": {
+        "name": "合成验收作者",
+        "tagline": "",
+        "bio": "",
+        "email": "",
+        "links": []
+      },
+      "changes": [
+        {
+          "field": "bio",
+          "before": "",
+          "after": "仅用于隔离验收的修改后简介"
+        }
+      ],
+      "avatarAction": "replace",
+      "avatar": {
+        "id": "12345678-1234-4123-8123-123456789abc",
+        "path": "files/12345678-1234-4123-8123-123456789abc.png",
+        "name": "synthetic.png",
+        "bytes": 94,
+        "width": 3,
+        "height": 2,
+        "sha256": "eb0586dc9e1214d63cf05c57ce82460a47062f0bfbc5c9e78aab950674bb4642"
+      }
+    },
+    "works": []
+  },
+  "review": {
+    "withdrawalReason": "",
+    "githubLoginClaim": "Daodaodot",
+    "bindingStatus": "unverified",
+    "works": []
+  }
+}
