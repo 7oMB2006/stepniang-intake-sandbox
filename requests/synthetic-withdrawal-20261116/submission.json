@@ -1,0 +1,34 @@
+{
+  "format": "stepniang-submission",
+  "version": 3,
+  "requestKind": "withdrawal",
+  "exportedAt": "2026-11-16T08:09:07.121Z",
+  "public": {
+    "withdrawalIds": [
+      "5c9eba2caeaaf1c3d632cfa0444f7226fe67bfe7cf44e17abef4e1ee09d8ff31"
+    ],
+    "author": {
+      "mode": "existing",
+      "id": "known",
+      "updateProfile": false,
+      "profile": null,
+      "baseline": {
+        "name": "合成验收作者",
+        "tagline": "",
+        "bio": "",
+        "email": "",
+        "links": []
+      },
+      "changes": [],
+      "avatarAction": "keep",
+      "avatar": null
+    },
+    "works": []
+  },
+  "review": {
+    "withdrawalReason": "Synthetic request only",
+    "githubLoginClaim": "Daodaodot",
+    "bindingStatus": "unverified",
+    "works": []
+  }
+}
